@@ -27,5 +27,6 @@
   "license": "",
   "readme": "",
   "bugs": "",
-  "changelog": ""
+  "changelog": "",
+  "socket": true
 }
