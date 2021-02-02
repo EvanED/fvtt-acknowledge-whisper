@@ -1,0 +1,31 @@
+{
+  "name": "acknowledge-whisper",
+  "title": "acknowledge-whisper",
+  "description": "System for acknowledging chat whispers",
+  "systems": ["dnd5e"],
+  "version": "0.1.0",
+  "author": "evaned@gmail.com",
+  "authors": [
+    {
+      "name": "Evan",
+      "email": "evaned@gmail.com",
+      "url": ""
+    }
+  ],
+  "scripts": [],
+  "esmodules": [
+    "acknowledge-whisper.js"
+  ],
+  "styles": [
+    "acknowledge-whisper.css"
+  ],
+  "minimumCoreVersion": "0.7.7",
+  "compatibleCoreVersion": "0.7.7",
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "",
+  "readme": "",
+  "bugs": "",
+  "changelog": ""
+}
